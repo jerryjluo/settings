@@ -54,3 +54,5 @@ let g:airline#extensions#tabline#tab_nr_type = 1
 
 map <C-h> :bprev<CR>
 map <C-l> :bnext<CR>
+
+set pastetoggle=<F2>
