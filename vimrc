@@ -56,3 +56,6 @@ map <C-h> :bprev<CR>
 map <C-l> :bnext<CR>
 
 set pastetoggle=<F2>
+
+" changes color after column 80
+let &colorcolumn=join(range(81,999),",")
