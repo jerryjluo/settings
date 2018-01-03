@@ -1,0 +1,5 @@
+[user]
+        email = jerryjluo@gmail.com
+        name = Jerry Luo
+[alias]
+        lg = log --oneline --decorate --all --color --graph
